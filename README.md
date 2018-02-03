@@ -12,17 +12,11 @@ Steps 1
  * [ ] mengenal file 'Changes', 'Staging' dan 'Commited'
  * [ ] menggunakan git status, git add, git commit -> code
 	```
-	$git add . 
+	$git add .
 	$git commit
-	$git status 
+	$git status
 	```
  * [ ] melakukan penambahan file
  * [ ] intro github
  * [ ] remote repo -> code
-	
-
-
-
- 
- 
- 
+ * [ ] Perubahan title index

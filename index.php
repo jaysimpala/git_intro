@@ -5,7 +5,7 @@
     <title></title>
   </head>
   <body>
-    <h1>Hello Git</h1>
+    <h1>Jays Impala</h1>
     <table border="1">
       <tr>
         <th><a href="home.php">Home</td>
